@@ -10,7 +10,7 @@ $kuning="\033[1;33m";
 //flag
 print"$ijo
 ========================================================\n
-[]  [] [][][] [][][]$red  !!!! WARNING !!!!$pink
+[]  [] [][][] [][][]$red  WWW.IDIOT-ATTACKER.COM  $pink
 []  [] []     []   []$red ==> Bot Ilegal <==$pink
 [][][] [][]   []   []$kuning bisa kena $red Banned$pink
 []  [] []     []   []$pink pergunakan dengan bijak$ijo
